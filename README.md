@@ -102,7 +102,7 @@ sh run.sh examples/add-issue.go
 
 ## Documentation ##
 
-The generated documentation at [GoDoc](http://godoc.org/github.com/baturorkun/go-jira-api).
+The generated documentation at [GoDoc](http://godoc.org/github.com/baturorkun/go-jira-api/jira).
 
 ## License ##
 
